@@ -1,0 +1,15 @@
+C:\Users\ggmbr\code\acctmis3610\dotnetMyApp\bin\Debug\net6.0\dotnetMyApp.exe
+C:\Users\ggmbr\code\acctmis3610\dotnetMyApp\bin\Debug\net6.0\dotnetMyApp.deps.json
+C:\Users\ggmbr\code\acctmis3610\dotnetMyApp\bin\Debug\net6.0\dotnetMyApp.runtimeconfig.json
+C:\Users\ggmbr\code\acctmis3610\dotnetMyApp\bin\Debug\net6.0\dotnetMyApp.dll
+C:\Users\ggmbr\code\acctmis3610\dotnetMyApp\bin\Debug\net6.0\dotnetMyApp.pdb
+C:\Users\ggmbr\code\acctmis3610\dotnetMyApp\obj\Debug\net6.0\dotnetMyApp.csproj.AssemblyReference.cache
+C:\Users\ggmbr\code\acctmis3610\dotnetMyApp\obj\Debug\net6.0\dotnetMyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggmbr\code\acctmis3610\dotnetMyApp\obj\Debug\net6.0\dotnetMyApp.AssemblyInfoInputs.cache
+C:\Users\ggmbr\code\acctmis3610\dotnetMyApp\obj\Debug\net6.0\dotnetMyApp.AssemblyInfo.cs
+C:\Users\ggmbr\code\acctmis3610\dotnetMyApp\obj\Debug\net6.0\dotnetMyApp.csproj.CoreCompileInputs.cache
+C:\Users\ggmbr\code\acctmis3610\dotnetMyApp\obj\Debug\net6.0\dotnetMyApp.dll
+C:\Users\ggmbr\code\acctmis3610\dotnetMyApp\obj\Debug\net6.0\refint\dotnetMyApp.dll
+C:\Users\ggmbr\code\acctmis3610\dotnetMyApp\obj\Debug\net6.0\dotnetMyApp.pdb
+C:\Users\ggmbr\code\acctmis3610\dotnetMyApp\obj\Debug\net6.0\dotnetMyApp.genruntimeconfig.cache
+C:\Users\ggmbr\code\acctmis3610\dotnetMyApp\obj\Debug\net6.0\ref\dotnetMyApp.dll
